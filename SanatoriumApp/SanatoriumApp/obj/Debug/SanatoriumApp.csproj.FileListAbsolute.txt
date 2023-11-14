@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\University\Databases\Sanatorium\SanatoriumApp\FastFoodDemo\bin\Debug\SanatoriumApp.exe.config
+C:\Users\Admin\Desktop\University\Databases\Sanatorium\SanatoriumApp\SanatoriumApp\bin\Debug\SanatoriumApp.exe.config
+C:\Users\Admin\Desktop\University\Databases\Sanatorium\SanatoriumApp\SanatoriumApp\obj\Debug\SanatoriumApp.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\University\Databases\Sanatorium\SanatoriumApp\SanatoriumApp\obj\Debug\SanatoriumApp.FirstCustomControl.resources
+C:\Users\Admin\Desktop\University\Databases\Sanatorium\SanatoriumApp\SanatoriumApp\obj\Debug\SanatoriumApp.Form1.resources
+C:\Users\Admin\Desktop\University\Databases\Sanatorium\SanatoriumApp\SanatoriumApp\obj\Debug\SanatoriumApp.MySecondCustmControl.resources
+C:\Users\Admin\Desktop\University\Databases\Sanatorium\SanatoriumApp\SanatoriumApp\obj\Debug\SanatoriumApp.Properties.Resources.resources
+C:\Users\Admin\Desktop\University\Databases\Sanatorium\SanatoriumApp\SanatoriumApp\obj\Debug\SanatoriumApp.UserControl1.resources
+C:\Users\Admin\Desktop\University\Databases\Sanatorium\SanatoriumApp\SanatoriumApp\obj\Debug\SanatoriumApp.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\University\Databases\Sanatorium\SanatoriumApp\SanatoriumApp\bin\Debug\SanatoriumApp.exe
+C:\Users\Admin\Desktop\University\Databases\Sanatorium\SanatoriumApp\SanatoriumApp\bin\Debug\SanatoriumApp.pdb
+C:\Users\Admin\Desktop\University\Databases\Sanatorium\SanatoriumApp\SanatoriumApp\obj\Debug\SanatoriumApp.exe
+C:\Users\Admin\Desktop\University\Databases\Sanatorium\SanatoriumApp\SanatoriumApp\obj\Debug\SanatoriumApp.pdb
